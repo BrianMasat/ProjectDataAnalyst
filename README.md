@@ -1,10 +1,3 @@
-¿Qué es Ethereum (ETH)?
-Ethereum es una plataforma de contratos inteligentes que permite a los desarrolladores crear tokens y aplicaciones descentralizadas (dapps). ETH es la moneda nativa de la plataforma Ethereum, con la que también se pagan las comisiones de transacción a los mineros de la red Ethereum.
-
-
-
-
-
 [![henrylogo.png](https://i.postimg.cc/JzjbH2sC/henrylogo.png)](https://postimg.cc/hXPJHM82)
 <h1 style="color:red"><center> Cryptocurrency Market Data Analytics</center></h1>
 <h2 style="color:red"><center> Proyecto Individual N°2 (Brian Emiliano Masat)</center></h2>
@@ -114,6 +107,30 @@ En resumen, las Finanzas Descentralizadas (DeFi) representan una evolución radi
 <h1>Selección de Criptomonedas para el Análisis:</h1> 
 
 Dentro de cada categoría, se han seleccionado las cinco criptomonedas con mayor capitalización de mercado para llevar a cabo un análisis en profundidad. El propósito de este análisis es determinar cuál criptomoneda de cada grupo podría representar la mejor opción de inversión. A partir de esta evaluación, se buscará tomar decisiones informadas sobre cómo diversificar la cartera y aprovechar las oportunidades que ofrece el mercado de criptomonedas.
+
+
+Contratos Inteligentes:<br>
+Ethereum (ETH)<br>
+Binance Coin (BNB)<br>
+Cardano (ADA)<br>
+Solana (SOL)<br>
+Tron (TRX)<br>
+
+Monedas Estables:<br>
+Tether (USDT)<br>
+USD Coin (USDC)<br>
+DAI (DAI)<br>
+TrueUSD (TUSD)<br>
+Binance USD (BUSD)<br>
+
+<br>
+Criptomonedas DeFi:<br>
+Uniswap (UNI)<br>
+Lido-Dao (LDO)<br>
+Staked-Ether (STETH)<br>
+Maker (MKR)<br>
+Chainlink (LINK)<br>
+
 
 <h1>Propuesta de trabajo - Mínimos Entregables:</h1>
 En esta sección, establecemos los principales requerimientos y objetivos para el desarrollo del proyecto.
