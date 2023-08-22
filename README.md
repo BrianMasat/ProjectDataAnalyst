@@ -103,6 +103,7 @@ Características clave:
 
 En resumen, las Finanzas Descentralizadas (DeFi) representan una evolución radical en la forma en que las personas interactúan con los servicios financieros. Al eliminar intermediarios y fomentar la automatización a través de contratos inteligentes, democratiza el acceso a una amplia gama de servicios, desde préstamos hasta intercambio de activos y generación de ingresos pasivos.
 
+[![cripto.jpg](https://i.postimg.cc/pdgfHg4n/cripto.jpg)](https://postimg.cc/FfVdbn99)
 
 <h1>Selección de Criptomonedas para el Análisis:</h1> 
 
@@ -174,3 +175,7 @@ Este proyecto es de código abierto y está abierto a contribuciones y sugerenci
 
 <h1>Licencia:</h1>
 Este proyecto está licenciado bajo la licencia Apache License Version 2.0 [Link to License](http://www.apache.org/licenses/)
+
+<h1>Aclaración:</h1>
+Es fundamental enfatizar que este proyecto tiene como objetivo demostrar la aplicación de habilidades en el análisis de datos y no pretende fomentar ni respaldar inversiones reales en criptomonedas. Las decisiones de inversión deben ser tomadas después de un análisis exhaustivo y profesional, considerando una amplia gama de factores y, en muchos casos, consultando a asesores financieros calificados.
+Por la misma razón expuesta, he optado por abstenerme de emitir una conclusión específica con respecto a las inversiones. Esto se hace para evitar cualquier malentendido o interpretación incorrecta en relación con las sugerencias de inversión basadas en los datos proporcionados.
